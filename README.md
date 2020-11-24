@@ -1,7 +1,7 @@
 # HP-Spectre-x360-15-Late-2018-Hackintosh
 HP Spectre x360 Hackintosh 
 
-For full information, please visit my blog: []()
+For full information, please visit my blog: [https://blog.magentaize.xyz/posts/hackintosh-for-hp-spectre-x360-15-df0011tx](https://blog.magentaize.xyz/posts/hackintosh-for-hp-spectre-x360-15-df0011tx/)
 
 # macOS 11.15.7 Catalina
 * Model: HP Spectre x360 15-df0011tx
