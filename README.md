@@ -3,7 +3,8 @@ HP Spectre x360 Hackintosh
 
 For full information, please visit my blog: [https://blog.magentaize.xyz/posts/hackintosh-for-hp-spectre-x360-15-df0011tx](https://blog.magentaize.xyz/posts/hackintosh-for-hp-spectre-x360-15-df0011tx/)
 
-# macOS 11.15.7 Catalina
+# Information
+* macOS: 11.15.7 Catalina
 * Model: HP Spectre x360 15-df0011tx
 * CPU: Intel Core i7-8750H
 * iGPU: Intel Graphics UHD 630
