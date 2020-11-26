@@ -2,6 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<key>BootGraphics</key>
+    <dict>
+        <key>#DefaultBackgroundColor</key>
+        <string>0xF0F0F0</string>
+        <key>UIScale</key>
+        <integer>2</integer>
+        <key>EFILoginHiDPI</key>
+        <integer>1</integer>
+    </dict>
 	<key>ACPI</key>
 	<dict>
 		<key>SSDT</key>
